@@ -5,4 +5,4 @@ with open(file_path, 'w') as file:
     file.write('"Hello"\n\n"world"')
 
 # Очишаем txt
-#open(file_path, 'w').close()
+open(file_path, 'w').close()
